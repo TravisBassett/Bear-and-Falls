@@ -1,10 +1,10 @@
-Bear And Falls.
+    # Bear And Falls.
 
-    By James McIntyre
+    *By James McIntyre*
 
 
 
-            Strange incidents do happen ever
+            _Strange_ incidents do happen ever
             On the famed Niagara river,
             This thought to mind it now recalls
             Event three miles above the falls.
@@ -48,3 +48,5 @@ Bear And Falls.
             Row quick 'longside in a canoe,
             And fire in bruin leaden balls,
             Thus saving friend from bear and falls.
+            
+            http://www.public-domain-poetry.com/james-mcintyre/bear-and-falls-38668
