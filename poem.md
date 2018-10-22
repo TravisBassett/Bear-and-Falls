@@ -4,8 +4,6 @@
 
 [source](http://www.public-domain-poetry.com/james-mcintyre/bear-and-falls-38668)
 
-
-
         Strange the falls.
         Thrilling ventures there abound,
         A bear which weighed eight hundred pounds,
@@ -47,4 +45,4 @@
         And fire in bruin leaden balls,
         Thus saving friend from bear and falls.
         
-        
+*this poem is in the public domain*        
