@@ -4,7 +4,7 @@
 
 
 
-            _Strange_ the falls.
+            *Strange* the falls.
 
             Thrilling ventures there abound,
             A bear which weighed eight hundred pounds,
