@@ -1,13 +1,10 @@
-    # Bear And Falls.
+    ### Bear And Falls.
 
-    *By James McIntyre*
+    **By James McIntyre**
 
 
 
-            _Strange_ incidents do happen ever
-            On the famed Niagara river,
-            This thought to mind it now recalls
-            Event three miles above the falls.
+            _Strange_ the falls.
 
             Thrilling ventures there abound,
             A bear which weighed eight hundred pounds,
